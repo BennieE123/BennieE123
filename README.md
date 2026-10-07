@@ -76,7 +76,7 @@ The project includes:
 * Business recommendations
 * Interactive Streamlit dashboard
 
-🔗 [View Project](https://github.com/BennieE123/NovaTech-HR-Analytics)
+🔗 [View Project](https://github.com/BennieE123/novatech-hr-analytics)
 
 ---
 
@@ -126,7 +126,7 @@ AI & Automation for Data Analysis
 
 ## 📫 Connect With Me
 
-🔗 **LinkedIn:** [Benjamin Happiness](YOUR-LINKEDIN-URL)
+🔗 **LinkedIn:** [Benjamin Happiness](www.linkedin.com/in/benjamin-happiness-154672323)
 
 ---
 
